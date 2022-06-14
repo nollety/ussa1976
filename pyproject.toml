@@ -26,7 +26,7 @@ xarray = ">=0.18.2,<2022.4.0"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.8.1"
-bandit = "==1.7.2"
+bandit = "==1.7.4"
 black = ">=21.12b0"
 coverage = {extras = ["toml"], version = ">=5.4"}
 darglint = ">=1.7.0"
